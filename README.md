@@ -1,16 +1,35 @@
-# sampleproject
+# Air-Bird
 
-A new Flutter project.
+## Application Discription
+Air-Bird is an mobile application which can be used to monitor dynamic pollution sources. Flutter framework is used to devlop this application with myspl in backend. This application is integrated with the Google Map API. 
 
-## Getting Started
+When ever a user will detect a dynamic pollution source like, wood burning, grabage burning, heavy traffic or mining activity he/she has to follow to bellow steps. Location will be updated as per the user input. 
 
-This project is a starting point for a Flutter application.
+## How to use
 
-A few resources to get you started if this is your first Flutter project:
+> 1.) Open the Air-Bird
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> 2.) Select the pollution source from list
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 3.) Select the intensity and amount of pollution source
+
+> 4.) Allow location access
+
+> 5.) Click on update button
+
+## Demo video of working app
+
+![](airbird.gif)
+
+
+## Reaming task
+
+This project is still under devlopment. Bellow is the list of remaing work.
+
+> 1.) Add camera access in the application
+
+> 2.) Fetch information from the server to update the location on map when user provides the input.
+
+> 3.) Migration to Firebase.
+
+> 4.) Adding reward system for the best contributor.
