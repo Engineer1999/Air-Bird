@@ -32,4 +32,4 @@ This project is still under devlopment. Bellow is the list of remaing work.
 
 > 3.) Migration to Firebase.
 
-> 4.) Adding reward system for the best contributor.
+> 4.) Adding reward system for the best contributor!
